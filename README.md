@@ -15,4 +15,4 @@ npm install react-bootstrap bootstrap
 
 npm install react-router-dom
 
-### Autora: Yasmin Vilhen
+### Autora: Yasmin Vilhena
